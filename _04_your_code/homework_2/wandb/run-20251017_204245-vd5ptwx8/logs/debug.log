@@ -1,0 +1,32 @@
+2025-10-17 20:42:45,436 INFO    MainThread:29148 [wandb_init.py:setup_run_log_directory():705] Logging user logs to c:\Users\didsu\workspace\deeplearning\link_dl\_04_your_code\homework_2\wandb\run-20251017_204245-vd5ptwx8\logs\debug.log
+2025-10-17 20:42:45,437 INFO    MainThread:29148 [wandb_init.py:setup_run_log_directory():706] Logging internal logs to c:\Users\didsu\workspace\deeplearning\link_dl\_04_your_code\homework_2\wandb\run-20251017_204245-vd5ptwx8\logs\debug-internal.log
+2025-10-17 20:42:45,438 INFO    MainThread:29148 [wandb_init.py:monkeypatch_ipython():624] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x00000293E13C64D0>
+2025-10-17 20:42:45,438 INFO    MainThread:29148 [wandb_init.py:init():832] calling init triggers
+2025-10-17 20:42:45,440 INFO    MainThread:29148 [wandb_init.py:init():837] wandb.init called with sweep_config: {}
+config: {'epochs': 5000, 'batch_size': 64, 'learning_rate': 0.001, 'n_hidden_unit_list': [20, 20], 'activation_fn': 'Sigmoid', 'patience': 100, '_wandb': {}}
+2025-10-17 20:42:45,441 INFO    MainThread:29148 [wandb_init.py:init():880] starting backend
+2025-10-17 20:42:45,441 INFO    MainThread:29148 [wandb_init.py:init():883] sending inform_init request
+2025-10-17 20:42:45,452 INFO    MainThread:29148 [wandb_init.py:init():891] backend started and connected
+2025-10-17 20:42:45,464 INFO    MainThread:29148 [wandb_run.py:_label_probe_notebook():1330] probe notebook
+2025-10-17 20:42:45,468 INFO    MainThread:29148 [wandb_init.py:init():961] updated telemetry
+2025-10-17 20:42:45,650 INFO    MainThread:29148 [wandb_init.py:init():985] communicating run to backend with 90.0 second timeout
+2025-10-17 20:42:47,136 INFO    MainThread:29148 [wandb_init.py:init():1036] starting run threads in backend
+2025-10-17 20:42:47,531 INFO    MainThread:29148 [wandb_run.py:_console_start():2509] atexit reg
+2025-10-17 20:42:47,532 INFO    MainThread:29148 [wandb_run.py:_redirect():2357] redirect: wrap_raw
+2025-10-17 20:42:47,532 INFO    MainThread:29148 [wandb_run.py:_redirect():2426] Wrapping output streams.
+2025-10-17 20:42:47,532 INFO    MainThread:29148 [wandb_run.py:_redirect():2449] Redirects installed.
+2025-10-17 20:42:47,533 INFO    MainThread:29148 [wandb_init.py:init():1076] run started, returning control to user process
+2025-10-17 20:43:56,206 INFO    MainThread:29148 [wandb_init.py:_post_run_cell_hook():594] [no run ID] resuming backend
+2025-10-17 20:45:44,472 INFO    MainThread:29148 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-10-17 20:45:44,473 INFO    MainThread:29148 [wandb_init.py:_pre_run_cell_hook():583] [no run ID] pausing backend
+2025-10-17 20:45:44,684 INFO    MainThread:29148 [wandb_init.py:_post_run_cell_hook():594] [no run ID] resuming backend
+2025-10-17 20:46:07,483 INFO    MainThread:29148 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-10-17 20:46:07,483 INFO    MainThread:29148 [wandb_init.py:_pre_run_cell_hook():583] [no run ID] pausing backend
+2025-10-17 20:46:07,563 INFO    MainThread:29148 [wandb_run.py:_finish():2275] finishing run -ddj127-korea-university-of-technology-and-education/titanic_homework2/vd5ptwx8
+2025-10-17 20:46:07,566 INFO    MainThread:29148 [jupyter.py:save_history():480] not saving jupyter history
+2025-10-17 20:46:07,566 INFO    MainThread:29148 [jupyter.py:save_ipynb():404] not saving jupyter notebook
+2025-10-17 20:46:07,567 INFO    MainThread:29148 [wandb_init.py:_jupyter_teardown():609] cleaning up jupyter logic
+2025-10-17 20:46:07,567 INFO    MainThread:29148 [wandb_run.py:_atexit_cleanup():2474] got exitcode: 0
+2025-10-17 20:46:07,568 INFO    MainThread:29148 [wandb_run.py:_restore():2456] restore
+2025-10-17 20:46:07,568 INFO    MainThread:29148 [wandb_run.py:_restore():2462] restore done
+2025-10-17 20:46:08,815 INFO    MainThread:29148 [wandb_run.py:_footer_sync_info():3872] logging synced files

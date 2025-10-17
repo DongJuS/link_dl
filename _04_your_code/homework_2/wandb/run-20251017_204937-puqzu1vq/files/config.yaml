@@ -1,0 +1,75 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        e:
+            pcq1k1s5zybte9d9c3layxk8jwu7sp3k:
+                codePath: _04_your_code\homework_2\c_my_model_training_with_argparse_wandb_Selective_activate_function_각셀별로.ipynb
+                codePathLocal: c_my_model_training_with_argparse_wandb_Selective_activate_function_각셀별로.ipynb
+                cpu_count: 10
+                cpu_count_logical: 16
+                cudaVersion: "12.7"
+                disk:
+                    /:
+                        total: "999264612352"
+                        used: "220581642240"
+                email: didsusclzls@naver.com
+                executable: c:\Users\didsu\miniconda3\envs\link_dl\python.exe
+                git:
+                    commit: 3daf89bb6e61957b759f8fb7da38cafc724a68d0
+                    remote: https://github.com/DongJuS/link_dl.git
+                gpu: NVIDIA GeForce RTX 4050 Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 2560
+                      memoryTotal: "6439305216"
+                      name: NVIDIA GeForce RTX 4050 Laptop GPU
+                      uuid: GPU-f08051e0-2215-f1eb-014c-8fb4d4164bd8
+                host: ddj127
+                memory:
+                    total: "34048847872"
+                os: Windows-10-10.0.26100-SP0
+                program: c:\Users\didsu\workspace\deeplearning\link_dl\_04_your_code\homework_2\c_my_model_training_with_argparse_wandb_Selective_activate_function_각셀별로.ipynb
+                python: CPython 3.10.18
+                root: c:\Users\didsu\workspace\deeplearning\link_dl\_04_your_code\homework_2
+                startedAt: "2025-10-17T11:49:37.452799Z"
+                writerId: pcq1k1s5zybte9d9c3layxk8jwu7sp3k
+        m: []
+        python_version: 3.10.18
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+            "2":
+                - 1
+                - 5
+                - 53
+            "3":
+                - 2
+                - 13
+                - 15
+                - 16
+            "4": 3.10.18
+            "5": 0.22.2
+            "8":
+                - 1
+                - 3
+            "10":
+                - 21
+            "12": 0.22.2
+            "13": windows-amd64
+activation_fn:
+    value: ReLU
+batch_size:
+    value: 128
+epochs:
+    value: 5000
+learning_rate:
+    value: 0.001
+n_hidden_unit_list:
+    value:
+        - 20
+        - 20
+patience:
+    value: 100

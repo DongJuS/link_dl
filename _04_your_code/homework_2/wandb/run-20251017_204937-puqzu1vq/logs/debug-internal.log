@@ -1,0 +1,18 @@
+{"time":"2025-10-17T20:49:38.5076716+09:00","level":"INFO","msg":"stream: starting","core version":"0.22.2"}
+{"time":"2025-10-17T20:49:39.3199894+09:00","level":"INFO","msg":"stream: created new stream","id":"puqzu1vq"}
+{"time":"2025-10-17T20:49:39.320493+09:00","level":"INFO","msg":"handler: started","stream_id":"puqzu1vq"}
+{"time":"2025-10-17T20:49:39.3211425+09:00","level":"INFO","msg":"stream: started","id":"puqzu1vq"}
+{"time":"2025-10-17T20:49:39.3211425+09:00","level":"INFO","msg":"writer: started","stream_id":"puqzu1vq"}
+{"time":"2025-10-17T20:49:39.3211425+09:00","level":"INFO","msg":"sender: started","stream_id":"puqzu1vq"}
+{"time":"2025-10-17T20:49:39.9895763+09:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":37}
+{"time":"2025-10-17T20:49:40.1610543+09:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":67}
+{"time":"2025-10-17T20:49:54.9913704+09:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":5960}
+{"time":"2025-10-17T20:49:55.2102757+09:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":87}
+{"time":"2025-10-17T20:50:09.9909642+09:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":11870}
+{"time":"2025-10-17T20:50:10.1645974+09:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":72}
+{"time":"2025-10-17T20:50:17.800417+09:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":0.0043255}],"total_operations":1}}
+{"time":"2025-10-17T20:50:18.5791637+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-17T20:50:18.9361774+09:00","level":"INFO","msg":"stream: closing","id":"puqzu1vq"}
+{"time":"2025-10-17T20:50:18.9361774+09:00","level":"INFO","msg":"handler: closed","stream_id":"puqzu1vq"}
+{"time":"2025-10-17T20:50:18.9361774+09:00","level":"INFO","msg":"sender: closed","stream_id":"puqzu1vq"}
+{"time":"2025-10-17T20:50:18.9361774+09:00","level":"INFO","msg":"stream: closed","id":"puqzu1vq"}

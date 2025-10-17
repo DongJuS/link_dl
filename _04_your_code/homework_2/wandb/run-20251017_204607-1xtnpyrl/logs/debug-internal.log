@@ -1,0 +1,15 @@
+{"time":"2025-10-17T20:46:08.9853916+09:00","level":"INFO","msg":"stream: starting","core version":"0.22.2"}
+{"time":"2025-10-17T20:46:10.1541459+09:00","level":"INFO","msg":"stream: created new stream","id":"1xtnpyrl"}
+{"time":"2025-10-17T20:46:10.15467+09:00","level":"INFO","msg":"handler: started","stream_id":"1xtnpyrl"}
+{"time":"2025-10-17T20:46:10.1623025+09:00","level":"INFO","msg":"stream: started","id":"1xtnpyrl"}
+{"time":"2025-10-17T20:46:10.1629361+09:00","level":"INFO","msg":"writer: started","stream_id":"1xtnpyrl"}
+{"time":"2025-10-17T20:46:10.1629361+09:00","level":"INFO","msg":"sender: started","stream_id":"1xtnpyrl"}
+{"time":"2025-10-17T20:49:08.9860735+09:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/-ddj127-korea-university-of-technology-and-education/titanic_homework2/1xtnpyrl/file_stream\": dial tcp 35.186.228.49:443: connectex: A socket operation was attempted to an unreachable host."}
+{"time":"2025-10-17T20:49:09.7517983+09:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":3148}
+{"time":"2025-10-17T20:49:10.6371581+09:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":61}
+{"time":"2025-10-17T20:49:37.4607103+09:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":0.0020525}],"total_operations":1}}
+{"time":"2025-10-17T20:49:38.2357123+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-17T20:49:38.50443+09:00","level":"INFO","msg":"stream: closing","id":"1xtnpyrl"}
+{"time":"2025-10-17T20:49:38.50443+09:00","level":"INFO","msg":"handler: closed","stream_id":"1xtnpyrl"}
+{"time":"2025-10-17T20:49:38.50443+09:00","level":"INFO","msg":"sender: closed","stream_id":"1xtnpyrl"}
+{"time":"2025-10-17T20:49:38.50443+09:00","level":"INFO","msg":"stream: closed","id":"1xtnpyrl"}

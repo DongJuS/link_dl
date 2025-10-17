@@ -1,0 +1,40 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.10.18",
+  "startedAt": "2025-10-17T11:31:19.184547Z",
+  "program": "c:\\Users\\didsu\\workspace\\deeplearning\\link_dl\\_04_your_code\\homework_2\\c_my_model_training_with_argparse_wandb_Selective_activate_function_각셀별로.ipynb",
+  "codePath": "_04_your_code\\homework_2\\c_my_model_training_with_argparse_wandb_Selective_activate_function_각셀별로.ipynb",
+  "codePathLocal": "c_my_model_training_with_argparse_wandb_Selective_activate_function_각셀별로.ipynb",
+  "git": {
+    "remote": "https://github.com/DongJuS/link_dl.git",
+    "commit": "3daf89bb6e61957b759f8fb7da38cafc724a68d0"
+  },
+  "email": "didsusclzls@naver.com",
+  "root": "c:\\Users\\didsu\\workspace\\deeplearning\\link_dl\\_04_your_code\\homework_2",
+  "host": "ddj127",
+  "executable": "c:\\Users\\didsu\\miniconda3\\envs\\link_dl\\python.exe",
+  "cpu_count": 10,
+  "cpu_count_logical": 16,
+  "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "999264612352",
+      "used": "220587241472"
+    }
+  },
+  "memory": {
+    "total": "34048847872"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4050 Laptop GPU",
+      "memoryTotal": "6439305216",
+      "cudaCores": 2560,
+      "architecture": "Ada",
+      "uuid": "GPU-f08051e0-2215-f1eb-014c-8fb4d4164bd8"
+    }
+  ],
+  "cudaVersion": "12.7",
+  "writerId": "pwxu5t9sds2b0fgzlkgrn2xf3b38q342"
+}
