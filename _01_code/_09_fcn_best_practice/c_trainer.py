@@ -5,7 +5,6 @@ from torch import nn
 from _01_code._99_common_utils.early_stopping import EarlyStopping
 from _01_code._99_common_utils.utils import strfdelta
 
-
 class ClassificationTrainer:
   def __init__(
     self, project_name, model, optimizer, train_data_loader, validation_data_loader, transforms,

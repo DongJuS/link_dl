@@ -19,6 +19,7 @@ class TitanicDataset(Dataset):
     feature = self.X[idx]
     target = self.y[idx]
     return {'input': feature, 'target': target}
+    
 
   def __str__(self):
     str = "Data Size: {0}, Input Shape: {1}, Target Shape: {2}".format(

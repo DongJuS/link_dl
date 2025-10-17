@@ -14,7 +14,7 @@ class CaliforniaHousingDataset(Dataset):
 
   def __len__(self):
     return len(self.data)
-
+  
   def __getitem__(self, idx):
     sample_data = self.data[idx]
     sample_target = self.target[idx]
