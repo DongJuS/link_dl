@@ -51,12 +51,16 @@ t10 = torch.tensor([1, 2, 3])
 t11 = torch.tensor([4, 5, 6])
 t12 = torch.hstack((t10, t11))
 print(t12)
+print(t12.shape)
 # >>> tensor([1, 2, 3, 4, 5, 6])
 
 t13 = torch.tensor([[1], [2], [3]])
 t14 = torch.tensor([[4], [5], [6]])
+print('t13 shape ',t13.shape)
 t15 = torch.hstack((t13, t14))
 print(t15)
+print('t15 shape ',t15.shape)
+
 # >>> tensor([[1, 4],
 #             [2, 5],
 #             [3, 6]])
