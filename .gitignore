@@ -174,7 +174,7 @@ wandb
 
 *.zip
 
-_04_your_code
+# _04_your_code
 _04_homeworks_solution
 
 
